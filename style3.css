@@ -1,0 +1,26 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+
+.container-1 {
+    height: 100vh;
+    background: linear-gradient(to right, red, blue);
+    text-align: center;
+}
+
+.container-1 p {
+    margin: 0px;
+    font-size: 200px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.container-1 p span {
+    color: turquoise;
+}
